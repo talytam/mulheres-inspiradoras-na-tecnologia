@@ -24,13 +24,13 @@ Meu objetivo é criar um ambiente inclusivo, onde todas as mulheres se sintam be
 <tr>
     <td>
       <a href="https://pt.wikipedia.org/wiki/Ada_Lovelace">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ada_lovelace.jpg/200px-Ada_lovelace.jpg" width="100px;" alt="Foto da Ada Lovelace no Wikipedia"/><br>
+        <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/AdaLovelace.png" width="100px;" alt="Foto da Ada Lovelace no Wikipedia"/><br>
         <b>Ada Lovelace</b>
     </a>
     </td>
     <td>
       <a href="https://pt.wikipedia.org/wiki/Ada_Lovelace">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ada_lovelace.jpg/200px-Ada_lovelace.jpg" width="100px;" alt="Foto da Ada Lovelace no Wikipedia"/><br>
+        <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/CarolShaw.png" width="100px;" alt="Foto da Ada Lovelace no Wikipedia"/><br>
         <b>Ada Lovelace</b>
     </a>
     </td>
