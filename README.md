@@ -1,14 +1,12 @@
 <h1 align="center">Mulheres Inspiradoras na Tecnologia</h1>
 
+>"Olá, comunidade tech! 👋 Sejam bem-vindos(as) ao meu cantinho dedicado a destacar mulheres pioneiras na área de tecnologia e links para comunidades e recursos! Vamos juntos(as) fortalecer a diversidade e promover uma tech mais inclusiva! 💻🚀"
+
 
 
 ## 📚 Descrição do Projeto
 
-Neste repositório, estou reunindo uma lista de mulheres incríveis que fizeram história e continuam a influenciar o campo da tecnologia até hoje. Acredito que é muito importante destacar suas contribuições pioneiras, não só para reconhecê-las, mas também para inspirar outras mulheres a seguirem seus passos.
-
-Além de compartilhar a lista dessas mulheres inspiradoras, também estou reunindo informações sobre comunidades online e recursos de aprendizado. Quero ajudar no desenvolvimento profissional das mulheres na área de tecnologia, fornecendo referências valiosas e incentivando seu crescimento e participação no campo.
-
-Meu objetivo é criar um ambiente inclusivo, onde todas as mulheres se sintam bem-vindas e apoiadas. 
+O propósito deste repositório é exaltar a presença feminina na tecnologia e mostrar como as mulheres têm sido fundamentais para o avanço da área. Por meio de uma lista especial de mulheres pioneiras, pretendo inspirar e motivar mais mulheres a abraçarem carreiras na àrea. Além disso, ofereço conexões com comunidades online e recursos para que possamos caminhar juntos(as) rumo a um campo tech mais diverso e acolhedor.
 
 ## 📜 Mulheres Pioneiras na área 
 
