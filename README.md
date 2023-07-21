@@ -43,15 +43,14 @@ Meu objetivo é criar um ambiente inclusivo, onde todas as mulheres se sintam be
       <a href="https://pt.wikipedia.org/wiki/Mary_Kenneth_Keller">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/05-MaryKennethKeller.png" width="100px;" alt="Foto da Mary Kenneth"/><br>
         <b>Mary Kenneth</b>
-    </a>
-    <td align = "center">
+</tr>
+<tr>
+<td align = "center">
       <a href="https://pt.wikipedia.org/wiki/Hedy_Lamarr">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/06-HedyLamarr.png" width="100px;" alt="Foto da Hedy Lamarr"/><br>
         <b>Hedy Lamarr</b>
     </a>
     </td>
-</tr>
-<tr>
     <td align = "center">
       <a href="https://pt.wikipedia.org/wiki/Joan_Clarke">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/07-JoanClarke.png" width="100px;" alt="Foto da Joan Clarke"/><br>
@@ -74,18 +73,6 @@ Meu objetivo é criar um ambiente inclusivo, onde todas as mulheres se sintam be
       <a href="https://pt.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/10-KarenSp%C3%A4rckJones.png" width="100px;" alt="Foto da Karen Spärck"/><br>
         <b>Karen Spärck</b>
-      </a>
-     </td>
-    <td align = "center">
-      <a href="https://pt.wikipedia.org/wiki/Margaret_Hamilton_(cientista_da_computa%C3%A7%C3%A3o)">
-        <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/11-MargaretHamilton.png" width="100px;" alt="Foto da Margaret Hamilton"/><br>
-        <b>Margaret Hamilton</b>
-      </a>
-     </td>
-    <td align = "center">
-      <a href="https://pt.wikipedia.org/wiki/Radia_Perlman">
-        <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/12-RadiaPerlman.png" width="100px;" alt="Foto da Radia Perlman"/><br>
-        <b>Radia Perlman</b>
       </a>
      </td>
 </tbody>
