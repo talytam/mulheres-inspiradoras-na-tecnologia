@@ -15,37 +15,37 @@ Meu objetivo é criar um ambiente inclusivo, onde todas as mulheres se sintam be
 <table>
 <tbody>
 <tr>
-    <td align = "center">
+    <td width = "15%" align = "center">
       <a href="https://pt.wikipedia.org/wiki/Ada_Lovelace">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/01-AdaLovelace.png" width="100px;" alt="Foto da Ada Lovelace"/><br>
         <b>Ada Lovelace</b>
     </a>
     </td>
-    <td align = "center">
+    <td width = "15%" align = "center">
       <a href="https://pt.wikipedia.org/wiki/Edith_Clarke">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/02-EdithClarke.png" width="100px;" alt="Foto da Edith Clarke"/><br>
         <b>Edith Clarke</b>
     </a>
     </td>
-    <td align = "center">
+    <td width = "15%" align = "center">
       <a href="https://pt.wikipedia.org/wiki/Grace_Hopper">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/03-CommodoreGraceMHopper.png" width="100px;" alt="Foto da Grace Hopper"/><br>
         <b>Grace Hopper</b>
     </a>
     </td>
-    <td align = "center">
+    <td width = "15%" align = "center">
       <a href="https://pt.wikipedia.org/wiki/Dorothy_Vaughan">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/04-DorothyJohnsonVaughan.png" width="100px;" alt="Foto da Dorothy Vaughan"/><br>
         <b>Dorothy Vaughan</b>
     </a>
     </td>
-    <td align = "center">
+    <td width = "15%" align = "center">
       <a href="https://pt.wikipedia.org/wiki/Mary_Kenneth_Keller">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/05-MaryKennethKeller.png" width="100px;" alt="Foto da Mary Kenneth"/><br>
-        <b>Mary Kenneth</b>
+        <b width = "15%">Mary Kenneth</b>
     </a>
     </td>
-    <td align = "center">
+    <td width = "15%" align = "center">
       <a href="https://pt.wikipedia.org/wiki/Hedy_Lamarr">
         <img src="https://github.com/talytam/mulheres-inspiradoras-na-tecnologia/blob/main/img/06-HedyLamarr.png" width="100px;" alt="Foto da Hedy Lamarr"/><br>
         <b>Hedy Lamarr</b>
