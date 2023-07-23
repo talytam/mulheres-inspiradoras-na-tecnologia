@@ -2,8 +2,6 @@
 
 >Olá, comunidade tech! 👋 Sejam bem-vindos(as) ao meu cantinho dedicado a destacar mulheres pioneiras na área de tecnologia e links para comunidades e recursos! Vamos juntos(as) fortalecer a diversidade e promover uma tech mais inclusiva! 💻🚀
 
-
-
 ## 📚 Descrição do Projeto
 
 O propósito deste repositório é exaltar a presença feminina na tecnologia e mostrar como as mulheres têm sido fundamentais para o avanço da área. Por meio de uma lista especial de mulheres pioneiras, pretendo inspirar e motivar mais mulheres a abraçarem carreiras na àrea. Além disso, ofereço conexões com comunidades online e recursos para que possamos caminhar juntos(as) rumo a um campo tech mais diverso e acolhedor.
@@ -82,5 +80,10 @@ O propósito deste repositório é exaltar a presença feminina na tecnologia e 
 >Esta lista reúne comunidades no Brasil que têm um compromisso especial com a inclusão e o empoderamento das mulheres na área de tecnologia. Cada uma dessas comunidades é um espaço acolhedor e enriquecedor, oferecendo oportunidades de aprendizado, networking e colaboração para mulheres interessadas em progredir em suas carreiras na área. 💻🌈
 
 
+✨ [AI Girls](https://aigirlsbr.github.io/): Comunidade que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.
+✨ [Anitas](https://www.linkedin.com/company/anitas): Comunidade de mulheres engajadas no empoderamento feminino em tecnologia e empreendedorismo, baseado na troca de experiências e conhecimentos.
+✨ [Brazilians in Tech](https://braziliansintech.com/): Comunidade criada para conectar e apoiar mulheres Brasileiras que estejam estudando e atuando em áreas relacionadas a tecnologia.
+✨ [Cloud Girls](https://www.cloudgirls.com.br/): Comunidade dedicada a promover a presença e o sucesso das mulheres no setor de tecnologia em nuvem.
+✨ 
 
 
