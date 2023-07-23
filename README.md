@@ -80,10 +80,40 @@ O propósito deste repositório é exaltar a presença feminina na tecnologia e 
 >Esta lista reúne comunidades no Brasil que têm um compromisso especial com a inclusão e o empoderamento das mulheres na área de tecnologia. Cada uma dessas comunidades é um espaço acolhedor e enriquecedor, oferecendo oportunidades de aprendizado, networking e colaboração para mulheres interessadas em progredir em suas carreiras na área. 💻🌈
 
 
-✨ [AI Girls](https://aigirlsbr.github.io/): Comunidade que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.
-✨ [Anitas](https://www.linkedin.com/company/anitas): Comunidade de mulheres engajadas no empoderamento feminino em tecnologia e empreendedorismo, baseado na troca de experiências e conhecimentos.
-✨ [Brazilians in Tech](https://braziliansintech.com/): Comunidade criada para conectar e apoiar mulheres Brasileiras que estejam estudando e atuando em áreas relacionadas a tecnologia.
-✨ [Cloud Girls](https://www.cloudgirls.com.br/): Comunidade dedicada a promover a presença e o sucesso das mulheres no setor de tecnologia em nuvem.
-✨ 
-
-
+✨ [AI Girls](https://aigirlsbr.github.io/): Comunidade que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.<br>
+✨ [Anitas](https://www.linkedin.com/company/anitas): Comunidade de mulheres engajadas no empoderamento feminino em tecnologia e empreendedorismo, baseado na troca de experiências e conhecimentos.<br>
+✨ [Brazilians in Tech](https://braziliansintech.com/): Comunidade criada para conectar e apoiar mulheres Brasileiras que estejam estudando e atuando em áreas relacionadas a tecnologia.<br>
+✨ [Cloud Girls](https://www.cloudgirls.com.br/): Comunidade dedicada a promover a presença e o sucesso das mulheres no setor de tecnologia em nuvem.<br>
+✨ [Coletivo Unicas](https://coletivo-unicas.vercel.app/): Comunidade com objetivo de atrair novas garotas e mulheres para a área.<br>
+✨ [Comunidade Ballerini](https://www.linkedin.com/company/comunidadeballerini/): Comunidade acolhedora onde devs podem aprender, se conectar e se divertir diariamente.<br>
+✨ [Data Girls](https://linktr.ee/DataGirls): Comunidade com enfoque em empoderar mulheres em Data Science e IA.<br>
+✨ [Elas por elas](https://linktr.ee/elaspor): Comunidade desenvolvida para promover a equidade de gênero na área tech e unir mulheres.<br>
+✨ [Elas Programam](https://www.elasprogramam.com.br/): Comunidade com o objetivo de inspirar, conectar e gerar oportunidades profissionais para aumentar a participação de mulheres na área de tecnologia.<br>
+✨ [Feministech](https://feministech.com.br/): Comunidade feminista de pessoas trans, não-binárias e mulheres cis que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.<br>
+✨ [Girls Support Girls Community](https://linktr.ee/gsgcommunity): Comunidade com objetivo de impulsionar mulheres em áreas de tecnologia.<br>
+✨ [GRACE](http://grace.icmc.usp.br/): Comunidade que tem como principal objetivo desenvolver atividades de extensão na área de tecnologia voltadas para o público feminino da cidade de São Carlos e, em especial, estudantes no nível primário, secundário e superior.<br>
+✨ [He4rt Developers](https://heartdevs.com/): Comunidade que abraça a ideia de que todos têm o direito de aprender e se desenvolver, independentemente de sua origem ou situação financeira.<br>
+✨ [Laboratória](https://linktr.ee/laboratoria_br): Comunidade que ajuda mulheres a se colocarem no mercado de trabalho por meio de mentorias, bootcamps e atividades relacionadas.<br>
+✨ [Manas Digitais](https://linktr.ee/manasdigitais): Comunidade que promove mais mulheres em carreiras de TI na região Amazônica e ações de inclusão.<br>
+✨ [MariaLab](https://www.marialab.org/): Comunidade feminista que trabalha pela valorização do cuidado nos meios digitais, promovendo um pensamento interseccional no desenho de tecnologias.<br>
+✨ [Meninas Digitais](https://linktr.ee/meninasdigitaissbc): Comunidade com a missão de despertar o interesse de meninas para seguirem carreira em Tecnologia da Informação e Comunicação.<br>
+✨ [Minas Programam](https://linktr.ee/minasprogramam): Comunidade criada para desafiar os estereótipos de gênero e de raça que influenciam nossa relação com as áreas de ciências, tecnologia e computação.<br>
+✨ [Mulheres Agilistas](https://linktr.ee/MulheresAgilistas): Comunidade de mulheres envolvidas nos papéis de Scrum Master, Agile Master, Agile Coach e entusiastas da agilidade.<br>
+✨ [Mulheres de Produto](https://mulheresdeproduto.com/): Comunidade com objetivo de promover o desenvolvimento e capacitação profissional para mulheres que desejam ingressar ou se especializar em áreas de tecnologia, engenharia, design e ciências aplicadas.<br>
+✨ [PretaLab](https://linktr.ee/pretalab): Comunidade que conecta mulheres negras que são ou gostariam de ser da tecnologia.<br>
+✨ [PrograMaria](https://vamosjuntes.programaria.org/links): Comunidade criada com o objetivo de empoderar meninas e mulheres por meio da tecnologia.<br>
+✨ [PyLadies](https://linktr.ee/pyladiesbrasil): Comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica.<br>
+✨ [QA Ladies](https://linktr.ee/qaladies): Comunidade de mulheres apaixonadas por tecnologia que tem como objetivo difundir conhecimento nas áreas de QA, Dev e Ops com a comunidade em geral.<br>
+✨ [Reprograma](https://linktr.ee/ReprogramaBr): Comunidade com a missão de reduzir a lacuna de gênero em TI por meio da educação e trazer mais diversidade para o setor.<br>
+✨ [R-Ladies Belo Horizonte](https://linktr.ee/rladiesbh): Comunidade com o objetivo de promover a diversidade de gênero na linguagem estatística computacional R.<br>
+✨ [Se Candidate, Mulher](https://ig.rdstation.com/secandidatemulher): Comunidade de impacto social que busca resolver o problema da desigualdade de gênero dentro das organizações por meio da inserção de mulheres no mercado de trabalho.<br>
+✨ [She’s Tech](https://linktr.ee/shestech): Comunidade que visa fortalecer a presença feminina no setor de tecnologia através de 3 pilares: inspirar, engajar e capacitar.<br>
+✨ [Start Coding](https://linktr.ee/startcoding): Comunidade com o objetivo de inserir mulheres no setor da tecnologia.<br>
+✨ [STEM para as Minas](https://www.stemparaminas.com/): Comunidade de disseminação de oportunidades do mundo da matemática, da engenharia, das áreas de tecnologia e ciências  para meninas e mulheres (cis e trans), em razão do baixa aderência das mesmas nessas comunidades.<br>
+✨ [SysAdminas](https://linktr.ee/sysadminas): Comunidade com intuito de fornecer uma rede de apoio e orientação para mulheres que desejam trabalhar com infraestrutura de TI no Brasil.<br>
+✨ [Test Girls](https://testgirls.com.br/): Comunidade que tem a missão de oferecer às mulheres um espaço seguro para aprendizado, crescimento e networking. Carreira, tecnologia e qualidade.<br>
+✨ [UX para Minas Pretas](https://linktr.ee/uxmpretas): Comunidade para capacitar, profissionalizar e conectar mulheres negras para o mercado de tecnologia e UX.<br>
+✨ [WoMakersCode](https://linktr.ee/womakerscode): Comunidade com objetivo de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.<br>
+✨ [Women Game Jam Brazil](http://www.womengamejam.org/pt/): Comunidade que tem maratonas de desenvolvimento de jogos, onde os participantes são desafiados a planejar e criar um jogo digital ou analógico, utilizando o tema proposto no dia do evento. A diferença, é que tem como foco mulheres cis, trans e pessoas não-binárias e é um evento não competitivo.<br>
+✨ [Women Techmakers](https://developers.google.com/womentechmakers): Comunidade do Google oferece visibilidade e recursos para as mulheres da tecnologia.<br>
+✨ [Women that React](https://linktr.ee/womenthatreact): Comunidade voltada às mulheres que desenvolvem ou tem curiosidade sobre React e React Native.<br>
