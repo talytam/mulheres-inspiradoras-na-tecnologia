@@ -1,6 +1,6 @@
 <h1 align="center">Mulheres Inspiradoras na Tecnologia</h1>
 
->"Olá, comunidade tech! 👋 Sejam bem-vindos(as) ao meu cantinho dedicado a destacar mulheres pioneiras na área de tecnologia e links para comunidades e recursos! Vamos juntos(as) fortalecer a diversidade e promover uma tech mais inclusiva! 💻🚀"
+>Olá, comunidade tech! 👋 Sejam bem-vindos(as) ao meu cantinho dedicado a destacar mulheres pioneiras na área de tecnologia e links para comunidades e recursos! Vamos juntos(as) fortalecer a diversidade e promover uma tech mais inclusiva! 💻🚀
 
 
 
@@ -74,8 +74,13 @@ O propósito deste repositório é exaltar a presença feminina na tecnologia e 
       </a>
      </td>
 </tbody>
-</tr>
+</tr>          
 </table>
+
+## 🤝 Comunidades 
+
+>Esta lista reúne comunidades no Brasil que têm um compromisso especial com a inclusão e o empoderamento das mulheres na área de tecnologia. Cada uma dessas comunidades é um espaço acolhedor e enriquecedor, oferecendo oportunidades de aprendizado, networking e colaboração para mulheres interessadas em progredir em suas carreiras na área. 💻🌈
+
 
 
 
