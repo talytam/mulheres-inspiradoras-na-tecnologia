@@ -142,3 +142,18 @@ O propósito deste repositório é exaltar a presença feminina na tecnologia e 
 ✨ [Trans de Programa](https://www.youtube.com/@TransdePrograma): Canal com conteúdos sobre tecnologia, principalmente relacionados a Angular e Firebase, além de reflexões sobre a importância da inclusão e diversidade na área de TI.<br>
 ✨ [Vanny](https://www.youtube.com/@wonderwanny): Canal aborda diversos assuntos relacionados à tecnologia, programação, carreira em TI e soft skills, com uma abordagem descontraída e didática. Além disso, o canal conta com entrevistas com outras pessoas que trabalham na área de TI.<br>
 
+## Como Contribuir 💻💡
+
+Você está convidado(a) a contribuir para este projeto! Se você conhece alguma mulher inspiradora na área de tecnologia que não está na lista, ou se tem sugestões de comunidades ou recursos adicionais, ficarei feliz em receber sua contribuição. Siga estas etapas para contribuir:
+<blockquote>
+  <ol>
+    <li>Faça um fork deste repositório.</li>
+    <li>Adicione suas indicações à lista existente, seguindo o formato estabelecido.</li>
+    <li>Caso queira adicionar uma nova categoria ou seção, sinta-se à vontade para fazê-lo.</li>
+    <li>Faça um pull request para que possamos revisar suas alterações e incorporá-las ao projeto.</li>
+  </ol>
+</blockquote>
+
+
+
+
