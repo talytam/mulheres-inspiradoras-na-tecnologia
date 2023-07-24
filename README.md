@@ -75,7 +75,7 @@ O propósito deste repositório é exaltar a presença feminina na tecnologia e 
 </tr>          
 </table>
 
-## 🤝 Comunidades 
+## 🤝 Comunidades Online
 
 >Esta lista reúne comunidades no Brasil que têm um compromisso especial com a inclusão e o empoderamento das mulheres na área de tecnologia. Cada uma dessas comunidades é um espaço acolhedor e enriquecedor, oferecendo oportunidades de aprendizado, networking e colaboração para mulheres interessadas em progredir em suas carreiras na área. 💻🌈
 
@@ -117,3 +117,28 @@ O propósito deste repositório é exaltar a presença feminina na tecnologia e 
 ✨ [Women Game Jam Brazil](http://www.womengamejam.org/pt/): Comunidade que tem maratonas de desenvolvimento de jogos, onde os participantes são desafiados a planejar e criar um jogo digital ou analógico, utilizando o tema proposto no dia do evento. A diferença, é que tem como foco mulheres cis, trans e pessoas não-binárias e é um evento não competitivo.<br>
 ✨ [Women Techmakers](https://developers.google.com/womentechmakers): Comunidade do Google oferece visibilidade e recursos para as mulheres da tecnologia.<br>
 ✨ [Women that React](https://linktr.ee/womenthatreact): Comunidade voltada às mulheres que desenvolvem ou tem curiosidade sobre React e React Native.<br>
+
+## Canais no Youtube
+
+>Nesta lista, você encontrará uma seleção de canais no YouTube de mulheres incríveis que compartilham seus conhecimentos, experiências e paixão pela tecnologia. 💻💖
+
+
+✨ [Ana Beatriz Neri](https://www.youtube.com/@AnaBeatrizNeriDev/): Canal de aulas e estudos sobre Java.<br>
+✨ [Attekita Dev](https://www.youtube.com/@attekitadev): Canal com dicas de programação, carreira internacional e trajetória pessoal.<br>
+✨ [Cami Massaneiro](https://www.youtube.com/@camimassaneiro1944): Canal com novidades de inovação e tecnologia, programação, feiras tecnológicas, dicas de empreendedorismo e assuntos relevantes do dia-a-dia.<br>
+✨ [Code By Duda](https://www.youtube.com/@CodeByDuda): Canal que compartilha sobre a área de T.I, faculdade de Engenharia de Software e mercado de trabalho.<br>
+✨ [Glaucia Lemos](https://www.youtube.com/@GlauciaLemos): Canal dedicado a todos que desejam aprender a programar em diferentes linguagens de programação, em especial - linguagens open source.<br>
+✨ [JuliaLabs](https://www.youtube.com/@Julia_Labs): Canal com projetos colocando a mão na massa com tecnologia.<br>
+✨ [Kamila code](https://www.youtube.com/@Kamilacode): Canal sobre Java, Spring, Backend, Cloud, Programação e carreira em tecnologia em geral.<br>
+✨ [Karine Lago](https://www.youtube.com/@KarineLago): Canal de ensino sobre análise de dados no Microsoft Excel e Power BI.<br>
+✨ [lelemaine channel](https://www.youtube.com/@lelemainechannel): Canal que compartilha conhecimentos e experiências na área de TI de uma forma informal e divertida.<br>
+✨ [Loiane Groner](https://www.youtube.com/@loianegroner): Canal dedicado a tudo relacionado a Angular, Java, Spring Framework, VSCode e Cloud.<br>
+✨ [Michelli Brito](https://www.youtube.com/@MichelliBrito): Canal de conteúdos de programação, arquitetura de software e carreira em TI.<br>
+✨ [Peixe Babel](https://www.youtube.com/@PeixeBabel): Canal com conteúdos de programação e conhecimentos gerais na tecnologia.<br>
+✨ [Programação Dinâmica](https://www.youtube.com/@pgdinamica): Canal que ensina sobre programação, ciência de dados, machine learning e inteligência artificial promovendo discussões sobre novas tecnologias e seus impactos na sociedade.<br>
+✨ [quero ser dev](https://www.youtube.com/@queroserdev): Canal com propósito de promover a inclusão de pessoas diversas na tecnologia, como iniciar na carreira de pessoa desenvolvedora e conteúdo sobre: html, css, javascript, git, github, react, carreira e empoderamento.<br>
+✨ [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini): Canal que acompanha a experiência no mundo tech e dicas sobre como se encaixar na área.<br>
+✨ [Stephanie Cardoso](https://www.youtube.com/@dev_stephanie): Canal com rotina na área dev backend e dicas para entrar na área.<br>
+✨ [Trans de Programa](https://www.youtube.com/@TransdePrograma): Canal com conteúdos sobre tecnologia, principalmente relacionados a Angular e Firebase, além de reflexões sobre a importância da inclusão e diversidade na área de TI.<br>
+✨ [Vanny](https://www.youtube.com/@wonderwanny): Canal aborda diversos assuntos relacionados à tecnologia, programação, carreira em TI e soft skills, com uma abordagem descontraída e didática. Além disso, o canal conta com entrevistas com outras pessoas que trabalham na área de TI.<br>
+
