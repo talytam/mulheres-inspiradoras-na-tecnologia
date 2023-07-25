@@ -1,4 +1,4 @@
-<h1 align="center">Mulheres Inspiradoras na Tecnologia</h1>
+<h1 align="center"> 👩🏽‍💻 Mulheres Inspiradoras na Tecnologia 👩🏽‍💻 </h1>
 
 >Olá, comunidade tech! 👋 Sejam bem-vindos(as) ao meu cantinho dedicado a destacar mulheres pioneiras na área de tecnologia e links para comunidades e recursos! Vamos juntos(as) fortalecer a diversidade e promover uma tech mais inclusiva! 💻🚀
 
@@ -86,6 +86,7 @@ O propósito deste repositório é exaltar a presença feminina na tecnologia e 
 ✨ [Cloud Girls](https://www.cloudgirls.com.br/): Comunidade dedicada a promover a presença e o sucesso das mulheres no setor de tecnologia em nuvem.<br>
 ✨ [Coletivo Unicas](https://coletivo-unicas.vercel.app/): Comunidade com objetivo de atrair novas garotas e mulheres para a área.<br>
 ✨ [Comunidade Ballerini](https://www.linkedin.com/company/comunidadeballerini/): Comunidade acolhedora onde devs podem aprender, se conectar e se divertir diariamente.<br>
+✨ [Comunidade Cafeína](https://github.com/ComunidadeCafeina): Comunidade que acolhe pessoas iniciantes em TI, com foco em grupos minoritários.<br>
 ✨ [Data Girls](https://linktr.ee/DataGirls): Comunidade com enfoque em empoderar mulheres em Data Science e IA.<br>
 ✨ [Elas por elas](https://linktr.ee/elaspor): Comunidade desenvolvida para promover a equidade de gênero na área tech e unir mulheres.<br>
 ✨ [Elas Programam](https://www.elasprogramam.com.br/): Comunidade com o objetivo de inspirar, conectar e gerar oportunidades profissionais para aumentar a participação de mulheres na área de tecnologia.<br>
@@ -118,7 +119,7 @@ O propósito deste repositório é exaltar a presença feminina na tecnologia e 
 ✨ [Women Techmakers](https://developers.google.com/womentechmakers): Comunidade do Google oferece visibilidade e recursos para as mulheres da tecnologia.<br>
 ✨ [Women that React](https://linktr.ee/womenthatreact): Comunidade voltada às mulheres que desenvolvem ou tem curiosidade sobre React e React Native.<br>
 
-## Canais no Youtube
+## 📹 Canais no Youtube
 
 >Nesta lista, você encontrará uma seleção de canais no YouTube de mulheres incríveis que compartilham seus conhecimentos, experiências e paixão pela tecnologia. 💻💖
 
@@ -142,17 +143,18 @@ O propósito deste repositório é exaltar a presença feminina na tecnologia e 
 ✨ [Trans de Programa](https://www.youtube.com/@TransdePrograma): Canal com conteúdos sobre tecnologia, principalmente relacionados a Angular e Firebase, além de reflexões sobre a importância da inclusão e diversidade na área de TI.<br>
 ✨ [Vanny](https://www.youtube.com/@wonderwanny): Canal aborda diversos assuntos relacionados à tecnologia, programação, carreira em TI e soft skills, com uma abordagem descontraída e didática. Além disso, o canal conta com entrevistas com outras pessoas que trabalham na área de TI.<br>
 
-## Como Contribuir 💻💡
+## 💡 Como Contribuir 
 
-Você está convidado(a) a contribuir para este projeto! Se você conhece alguma mulher inspiradora na área de tecnologia que não está na lista, ou se tem sugestões de comunidades ou recursos adicionais, ficarei feliz em receber sua contribuição. Siga estas etapas para contribuir:
-<blockquote>
-  <ol>
-    <li>Faça um fork deste repositório.</li>
-    <li>Adicione suas indicações à lista existente, seguindo o formato estabelecido.</li>
-    <li>Caso queira adicionar uma nova categoria ou seção, sinta-se à vontade para fazê-lo.</li>
-    <li>Faça um pull request para que possamos revisar suas alterações e incorporá-las ao projeto.</li>
-  </ol>
-</blockquote>
+>Você está convidado(a) a contribuir para este projeto! Se você conhece alguma mulher inspiradora na área de tecnologia que não está na lista, ou se tem sugestões de comunidades ou recursos adicionais, ficarei feliz em receber sua contribuição. Siga estas etapas para contribuir:
+
+<ul>
+  <li>Faça um fork deste repositório.</li>
+  <li>Adicione suas indicações à lista existente, seguindo o formato estabelecido.</li>
+  <li>Caso queira adicionar uma nova categoria ou seção, sinta-se à vontade para fazê-lo.</li>
+  <li>Faça um pull request para que possamos revisar suas alterações e incorporá-las ao projeto.</li>
+</ul>
+
+
 
 
 
