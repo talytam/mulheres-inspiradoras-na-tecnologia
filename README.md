@@ -8,9 +8,10 @@
   <img src="https://img.shields.io/badge/14_pioneiras-8A4FFF?style=for-the-badge" alt="14 pioneiras">
   <img src="https://img.shields.io/badge/38_comunidades-D95F9A?style=for-the-badge" alt="38 comunidades">
   <img src="https://img.shields.io/badge/18_canais-3B82F6?style=for-the-badge" alt="18 canais">
+  <img src="https://img.shields.io/badge/4_recursos-5B6470?style=for-the-badge" alt="4 podcasts e newsletters">
 </p>
 
-**[Pioneiras](#-mulheres-pioneiras) · [Comunidades](#-comunidades-e-iniciativas) · [YouTube](#-canais-no-youtube) · [Contribuir](#-como-contribuir)**
+**[Pioneiras](#-mulheres-pioneiras) · [Comunidades](#-comunidades-e-iniciativas) · [YouTube](#-canais-no-youtube) · [Podcasts & newsletters](#-podcasts-e-newsletters) · [Contribuir](#-como-contribuir)**
 
 </div>
 
@@ -149,20 +150,20 @@ A lista abaixo reúne comunidades e projetos com foco em **tecnologia, carreira,
 - [Elas Programam](https://www.elasprogramam.com.br/) — inspiração, capacitação e oportunidades para ampliar a participação feminina em tecnologia.
 - [Feministech](https://feministech.com.br/) — comunidade feminista formada por pessoas trans, não-binárias e mulheres cis que produzem e compartilham conteúdo sobre tecnologia.
 - [Girls Support Girls Community](https://linktr.ee/gsgcommunity) — apoio e desenvolvimento de mulheres em áreas de tecnologia.
-- [GRACE](http://grace.icmc.usp.br/) — atividades de extensão em tecnologia voltadas ao público feminino.
+- [GRACE](https://grace.icmc.usp.br/) — atividades de extensão em tecnologia voltadas ao público feminino.
 - [He4rt Developers](https://heartdevs.com/) — comunidade de aprendizado e desenvolvimento acessível em tecnologia.
 - [Laboratória](https://linktr.ee/laboratoria_br) — formação, mentorias e apoio à inserção de mulheres no mercado de trabalho.
 - [Manas Digitais](https://linktr.ee/manasdigitais) — promoção de mulheres em carreiras de TI na região Amazônica.
 - [MariaLab](https://www.marialab.org/) — comunidade feminista com atuação em tecnologia e pensamento interseccional.
 - [Meninas Digitais](https://linktr.ee/meninasdigitaissbc) — incentivo ao interesse de meninas por carreiras em Tecnologia da Informação e Comunicação.
-- [Minas Programam](https://linktr.ee/minasprogramam) — enfrentamento de estereótipos de gênero e raça em ciência, tecnologia e computação.
+- [Minas Programam](https://minasprogramam.com/) — enfrentamento de estereótipos de gênero e raça em ciência, tecnologia e computação.
 - [Mulheres Agilistas](https://linktr.ee/MulheresAgilistas) — comunidade de mulheres ligadas à agilidade.
 - [Mulheres de Produto](https://mulheresdeproduto.com/) — desenvolvimento e capacitação profissional em produto, tecnologia, engenharia e design.
-- [PretaLab](https://linktr.ee/pretalab) — conexão e fortalecimento de mulheres negras na tecnologia.
+- [PretaLab](https://www.pretalab.com/) — conexão e fortalecimento de mulheres negras na tecnologia.
 - [PrograMaria](https://vamosjuntes.programaria.org/links) — empoderamento de meninas e mulheres por meio da tecnologia.
-- [PyLadies](https://linktr.ee/pyladiesbrasil) — incentivo à participação de mulheres na comunidade Python.
+- [PyLadies](https://brasil.pyladies.com/) — incentivo à participação de mulheres na comunidade Python.
 - [QA Ladies](https://linktr.ee/qaladies) — compartilhamento de conhecimento em QA, Dev e Ops.
-- [Reprograma](https://linktr.ee/ReprogramaBr) — formação e inclusão de mulheres no setor de tecnologia.
+- [Reprograma](https://reprograma.com.br/) — formação e inclusão de mulheres no setor de tecnologia.
 - [R-Ladies Belo Horizonte](https://linktr.ee/rladiesbh) — promoção da diversidade de gênero na comunidade da linguagem R.
 - [Se Candidate, Mulher](https://ig.rdstation.com/secandidatemulher) — iniciativa de impacto social voltada à inserção de mulheres no mercado de trabalho.
 - [She’s Tech](https://linktr.ee/shestech) — fortalecimento da presença feminina em tecnologia por meio de inspiração, engajamento e capacitação.
@@ -173,7 +174,7 @@ A lista abaixo reúne comunidades e projetos com foco em **tecnologia, carreira,
 - [UX para Minas Pretas](https://linktr.ee/uxmpretas) — capacitação e conexão de mulheres negras para o mercado de tecnologia e UX.
 - [WoMakersCode](https://linktr.ee/womakerscode) — desenvolvimento profissional e econômico de mulheres em tecnologia.
 - [Women Game Jam Brazil](http://www.womengamejam.org/pt/) — maratona não competitiva de desenvolvimento de jogos voltada a mulheres cis, trans e pessoas não-binárias.
-- [Women Techmakers](https://developers.google.com/womentechmakers) — iniciativa do Google que oferece visibilidade, comunidade e recursos para mulheres em tecnologia.
+- [Women Techmakers](https://www.technovation.org/women-techmakers) — iniciativa do Google que oferece visibilidade, comunidade e recursos para mulheres em tecnologia.
 - [Women that React](https://linktr.ee/womenthatreact) — comunidade para mulheres que desenvolvem ou têm curiosidade sobre React e React Native.
 
 </details>
@@ -212,6 +213,32 @@ Uma seleção de canais com conteúdos sobre **programação, tecnologia, dados,
 
 ---
 
+## 🎧 Podcasts e newsletters
+
+Recursos para acompanhar histórias, carreira, comunidade e tendências relacionadas à presença de mulheres na tecnologia.
+
+<details>
+<summary><strong>🎙️ Ver podcasts</strong></summary>
+
+<br>
+
+- [Women in Tech Podcast](https://www.womenintechshow.com/) — entrevistas com engenheiras, fundadoras, investidoras, profissionais de UX/UI, jornalistas e outras mulheres que atuam em tecnologia.
+- [The Impact Room — Women@Tech](https://www.womenattech.com/podcast) — conversas sobre carreira, liderança, tecnologia e experiências de mulheres no setor.
+
+</details>
+
+<details>
+<summary><strong>💌 Ver newsletters</strong></summary>
+
+<br>
+
+- [Women Who Code — CODE Review](https://womenwhocode.us7.list-manage.com/subscribe?id=73a7096e5d&u=e75be710ba1a2eb0df9d82ca4) — notícias de tecnologia, oportunidades, bolsas, eventos e conteúdos de carreira.
+- [Women Techmakers Newsletter](https://developers.google.com/womentechmakers/newsletter/202405?hl=pt-br) — conteúdos, eventos, iniciativas e destaques da comunidade Women Techmakers.
+
+</details>
+
+---
+
 ## 💜 Como contribuir
 
 Contribuições são bem-vindas. Se você conhece uma mulher inspiradora, uma comunidade, iniciativa ou recurso que ainda não aparece aqui:
@@ -228,8 +255,9 @@ Sugestões de novas categorias também são bem-vindas.
 ## ℹ️ Observações
 
 - Esta coleção não pretende ser exaustiva e pode ser ampliada ao longo do tempo.
-- Links externos podem mudar ou deixar de estar disponíveis.
-- As imagens da seção de mulheres pioneiras estão armazenadas em `img/`. Antes de reutilizá-las em outros contextos, verifique os direitos e a licença aplicáveis à imagem específica.
+- Os links são revisados periodicamente, mas páginas externas podem mudar, redirecionar ou deixar de estar disponíveis.
+- Alguns links foram atualizados para páginas oficiais atuais quando havia uma alternativa mais estável.
+- As imagens da seção de mulheres pioneiras foram incluídas na versão original do projeto e a atribuição/licença individual não está registrada no repositório. Por isso, o projeto não declara direitos sobre essas imagens. Antes de reutilizá-las em outro contexto, verifique a fonte e a licença aplicável.
 
 ## 📄 Licença
 
