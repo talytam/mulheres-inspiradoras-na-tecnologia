@@ -233,7 +233,7 @@ Recursos para acompanhar histórias, carreira, comunidade e tendências relacion
 <br>
 
 - [Women Who Code — CODE Review](https://womenwhocode.us7.list-manage.com/subscribe?id=73a7096e5d&u=e75be710ba1a2eb0df9d82ca4) — notícias de tecnologia, oportunidades, bolsas, eventos e conteúdos de carreira.
-- [Women Techmakers Newsletter](https://developers.google.com/womentechmakers/newsletter/202405?hl=pt-br) — conteúdos, eventos, iniciativas e destaques da comunidade Women Techmakers.
+- [The Signal — Technovation](https://www.technovation.org/the-signal) — curadoria sobre tecnologia, inteligência artificial, comunidade e projetos construídos por pessoas da rede Technovation e Women Techmakers.
 
 </details>
 
