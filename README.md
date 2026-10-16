@@ -259,10 +259,6 @@ Sugestões de novas categorias também são bem-vindas.
 - Alguns links foram atualizados para páginas oficiais atuais quando havia uma alternativa mais estável.
 - As imagens da seção de mulheres pioneiras foram incluídas na versão original do projeto e a atribuição/licença individual não está registrada no repositório. Por isso, o projeto não declara direitos sobre essas imagens. Antes de reutilizá-las em outro contexto, verifique a fonte e a licença aplicável.
 
-## 📄 Licença
-
-Consulte o arquivo [LICENSE](LICENSE) para informações sobre a licença deste repositório.
-
 ---
 
 <div align="center">
