@@ -1,22 +1,37 @@
-# Mulheres Inspiradoras na Tecnologia
+<div align="center">
 
-Um projeto dedicado a reunir **mulheres que marcaram a história da tecnologia**, além de comunidades, iniciativas e canais que ajudam outras mulheres a estudar, se conectar e desenvolver suas carreiras na área.
+# 👩🏽‍💻 Mulheres Inspiradoras na Tecnologia
 
-A proposta é valorizar trajetórias, facilitar o acesso a recursos e manter uma coleção colaborativa de referências sobre **mulheres em tecnologia**.
+### Histórias, comunidades e recursos para fortalecer mulheres em tech.
 
-## Navegação
+<p>
+  <img src="https://img.shields.io/badge/14_pioneiras-8A4FFF?style=for-the-badge" alt="14 pioneiras">
+  <img src="https://img.shields.io/badge/38_comunidades-D95F9A?style=for-the-badge" alt="38 comunidades">
+  <img src="https://img.shields.io/badge/18_canais-3B82F6?style=for-the-badge" alt="18 canais">
+</p>
 
-- [Mulheres pioneiras](#mulheres-pioneiras)
-- [Comunidades e iniciativas](#comunidades-e-iniciativas)
-- [Canais no YouTube](#canais-no-youtube)
-- [Como contribuir](#como-contribuir)
-- [Observações](#observações)
+**[Pioneiras](#-mulheres-pioneiras) · [Comunidades](#-comunidades-e-iniciativas) · [YouTube](#-canais-no-youtube) · [Contribuir](#-como-contribuir)**
+
+</div>
 
 ---
 
-## Mulheres pioneiras
+## ✨ Sobre o projeto
 
-<table>
+A tecnologia também é construída por histórias que merecem ser lembradas.
+
+Este repositório reúne **mulheres que marcaram a história da tecnologia**, além de comunidades, iniciativas e canais que ajudam outras mulheres a **aprender, se conectar e desenvolver suas carreiras na área**.
+
+A proposta é manter uma curadoria simples, útil e colaborativa sobre **mulheres em tecnologia, diversidade e desenvolvimento profissional**.
+
+> [!NOTE]
+> A coleção não pretende ser exaustiva. Ela pode crescer com novas referências, comunidades e recursos sugeridos pela própria comunidade.
+
+---
+
+## 👩🏽‍🔬 Mulheres pioneiras
+
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://pt.wikipedia.org/wiki/Ada_Lovelace">
@@ -109,14 +124,16 @@ A proposta é valorizar trajetórias, facilitar o acesso a recursos e manter uma
   </tr>
 </table>
 
+<p align="center"><sub>Clique no nome de cada pioneira para conhecer um pouco mais sobre sua trajetória.</sub></p>
+
 ---
 
-## Comunidades e iniciativas
+## 🤝 Comunidades e iniciativas
 
 A lista abaixo reúne comunidades e projetos com foco em **tecnologia, carreira, diversidade, formação e redes de apoio**.
 
 <details>
-<summary><strong>Ver comunidades e iniciativas</strong></summary>
+<summary><strong>✨ Ver 38 comunidades e iniciativas</strong></summary>
 
 <br>
 
@@ -163,12 +180,12 @@ A lista abaixo reúne comunidades e projetos com foco em **tecnologia, carreira,
 
 ---
 
-## Canais no YouTube
+## 📺 Canais no YouTube
 
 Uma seleção de canais com conteúdos sobre **programação, tecnologia, dados, carreira e experiências profissionais**.
 
 <details>
-<summary><strong>Ver canais</strong></summary>
+<summary><strong>▶️ Ver 18 canais</strong></summary>
 
 <br>
 
@@ -195,7 +212,7 @@ Uma seleção de canais com conteúdos sobre **programação, tecnologia, dados,
 
 ---
 
-## Como contribuir
+## 💜 Como contribuir
 
 Contribuições são bem-vindas. Se você conhece uma mulher inspiradora, uma comunidade, iniciativa ou recurso que ainda não aparece aqui:
 
@@ -208,12 +225,20 @@ Sugestões de novas categorias também são bem-vindas.
 
 ---
 
-## Observações
+## ℹ️ Observações
 
 - Esta coleção não pretende ser exaustiva e pode ser ampliada ao longo do tempo.
 - Links externos podem mudar ou deixar de estar disponíveis.
 - As imagens da seção de mulheres pioneiras estão armazenadas em `img/`. Antes de reutilizá-las em outros contextos, verifique os direitos e a licença aplicáveis à imagem específica.
 
-## Licença
+## 📄 Licença
 
 Consulte o arquivo [LICENSE](LICENSE) para informações sobre a licença deste repositório.
+
+---
+
+<div align="center">
+
+Feito para valorizar histórias, compartilhar caminhos e ampliar referências de mulheres na tecnologia. 💜
+
+</div>
